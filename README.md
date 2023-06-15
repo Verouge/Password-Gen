@@ -28,5 +28,5 @@ The generated password will be displayed through an alert or written to the page
 
 https://verouge.github.io/Password-Gen/
 
-![alt text](Assets\website-img.png)
-![alt text](Assets\prompt-img.png)
+![My Image](Assets\website-img.png)
+![My Image](Assets\prompt-img.png)
